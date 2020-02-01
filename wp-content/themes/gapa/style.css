@@ -1,0 +1,255 @@
+/*
+ Theme Name:   Gapa SC
+ Description:  Um tema filho criado com carinho.
+ Author:       WordPress Floripa
+ Template:     onepress
+ Version:      1.0.1
+ Text Domain:  gapa
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
+
+
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
+
+/* Botões */
+
+.btn-azul {
+    background: #2f7db3;
+    font-size: 25px;
+    border-radius: 30px;
+    color: #fff;
+    padding: 10px 40px;
+    line-height: 30px;
+    transition: all 0.5s ease;
+    -webkit-box-shadow: 0px 2px 20px 0px rgba(255,255,255,0.35);
+    -moz-box-shadow: 0px 2px 20px 0px rgba(255,255,255,0.35);
+    box-shadow: 0px 2px 20px 0px rgba(255,255,255,0.35);
+}
+
+.btn-azul:hover {
+    background: #3894d6;
+    color: #fff;
+    text-decoration: none;
+    -webkit-box-shadow: 0px 2px 20px 0px rgba(255,255,255,0.5);
+    -moz-box-shadow: 0px 2px 20px 0px rgba(255,255,255,0.5);
+    box-shadow: 0px 2px 20px 0px rgba(255,255,255,0.5);
+}
+
+.btn-vermelho {
+    background: #d92e5e;
+    display: none;
+    text-align: center;
+    height: auto;
+    padding: 20px 20px;
+    border-radius: 30px;
+    -webkit-box-shadow: 0px 2px 20px 0px rgba(255,255,255,0.35);
+    -moz-box-shadow: 0px 2px 20px 0px rgba(255,255,255,0.35);
+    box-shadow: 0px 2px 20px 0px rgba(255,255,255,0.35);
+}
+
+/* hero */
+
+.h-on-top.is-transparent #hero .container .hero__content {
+    margin-top: 25px;
+}
+
+.hero__content h2 {
+    font-family: 'Raleway', sans-serif !important;
+    font-size: 80px;
+    font-weight: 100;
+    text-transform: inherit;
+}
+
+.hero__content h2 img {
+    vertical-align: top;
+}
+
+/* SECTION O QUE FAZEMOS */
+
+#oquefazemos { 
+    background: #c5c5c5;
+    padding: 0 0 60px;
+}
+
+#oquefazemos .entry-content {
+    margin-bottom: 0;
+}
+
+#oquefazemos .section-title-area .section-title {
+    border-radius: 0 0 30px 30px;
+    color: #505050;
+    font-size: 31px;
+    font-weight: 100;
+    text-transform: inherit;
+    background: #53f9ff;
+    display: inline-block;
+    padding: 10px 60px;   
+}
+
+#oquefazemos h4 {
+    font-size: 22px;
+    font-weight: 100;
+}
+
+/* SECTION NOSSA HISTORIA */
+
+#nossahistoria .section-title-area .section-title {
+    border-radius: 0 0 30px 30px;
+    color: #fff;
+    font-size: 31px;
+    font-weight: 100;
+    text-transform: inherit;
+    background: #8a6433;
+    display: inline-block;
+    padding: 10px 60px;   
+}
+
+/* SECTION GALERIA */
+
+#galeria {
+    background: #993548;
+}
+
+#galeria.section-padding {
+    padding: 0;
+    padding-bottom: 60px;
+}
+
+#galeria .section-title-area .section-title {
+    border-radius: 0 0 30px 30px;
+    color: #993548;
+    font-size: 31px;
+    font-weight: 100;
+    text-transform: inherit;
+    background: #fff;
+    display: inline-block;
+    padding: 10px 60px;   
+}
+
+/* SECTION NOTICIAS */
+
+#noticias {
+    background: #2f7db3;
+}
+
+#noticias.section-padding {
+    padding: 0;
+    padding-bottom: 60px;
+}
+
+
+#noticias .section-title-area .section-title {
+    border-radius: 0 0 30px 30px;
+    color: #2f7db3;
+    font-size: 31px;
+    font-weight: 100;
+    text-transform: inherit;
+    background: #fff;
+    display: inline-block;
+    padding: 10px 60px;   
+}
+
+#noticias .list-article-meta a {
+    color: #fff;
+    text-transform: lowercase;
+    font-size: 19px;
+}
+
+#noticias h2 a {
+    font-size: 38px;
+    color: #53f9ff;
+    font-weight: 100;
+}
+
+#noticias p {
+    color: #fff;
+}
+
+#noticias .list-article:last-of-type, #noticias .archive .list-article:last-of-type, #noticias .blog .list-article:last-of-type, .section-news .list-article, .archive .list-article, .blog .list-article {
+    border-bottom:none;
+    border: none;
+}
+
+/* SECTION CONTATO */
+
+#contato {
+    background: #e3e8eb;
+}
+
+#contato.section-padding {
+    padding: 0;
+    padding-bottom: 60px;
+}
+
+#contato .section-title-area .section-title {
+    border-radius: 0 0 30px 30px;
+    color: #fff;
+    font-size: 31px;
+    font-weight: 100;
+    text-transform: inherit;
+    background: #24356b;
+    display: inline-block;
+    padding: 10px 60px;   
+}
+
+.contact-form div.wpforms-container-full .wpforms-form .wpforms-submit  {
+    background: #2f7db3;
+    display: inline-block;
+    border-radius: 30px;
+    color: #fff;
+    padding: 10px 40px;
+    line-height: 30px;
+    transition: all 0.5s ease;
+    -webkit-box-shadow: 0px 2px 20px 0px rgba(255,255,255,0.35);
+    -moz-box-shadow: 0px 2px 20px 0px rgba(255,255,255,0.35);
+    box-shadow: 0px 2px 20px 0px rgba(255,255,255,0.35);
+}
+
+#contato .wpforms-container-full .wpforms-form button[type=submit]:hover {
+    background: #3894d6;
+    color: #fff;
+    -webkit-box-shadow: 0px 2px 20px 0px rgba(255,255,255,0.5);
+    -moz-box-shadow: 0px 2px 20px 0px rgba(255,255,255,0.5);
+    box-shadow: 0px 2px 20px 0px rgba(255,255,255,0.5);
+}
+
+#contato .wpforms-container-full .wpforms-form .wpforms-submit-container {
+    padding: 10px 0 0 0;
+    clear: both;
+    display: inline-block;
+    position: relative;
+}
+
+#contato h5 {
+    color: #24356b;
+    font-size: 14px;
+    margin-bottom: 0;
+    padding-left: 45px;
+    text-transform: lowercase;
+}
+
+#contato.section-contact .address-contact .address-content {
+    color: #064462;
+    font-size: 18px;
+}
+
+#contato.section-contact .address-contact span {
+    color: transparent;
+    background: transparent;
+}
+
+#contato.section-contact .address-contact span i {
+    color: #307db3;
+    font-size: 30px;
+}
+
+
+/* SESSÃO FOOTER */
+
+.site-footer, .site-footer .site-info, .site-footer .btt a {
+    background: #24356b;
+}

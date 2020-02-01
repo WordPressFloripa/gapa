@@ -1,0 +1,1 @@
+ù5^<?php exit; ?>a:1:{s:7:"content";s:309:"a:6:{s:4:"path";s:53:"/home2/wpflor34/gapasc.org/wp-content/uploads/2020/01";s:3:"url";s:44:"http://gapasc.org/wp-content/uploads/2020/01";s:6:"subdir";s:8:"/2020/01";s:7:"basedir";s:45:"/home2/wpflor34/gapasc.org/wp-content/uploads";s:7:"baseurl";s:36:"http://gapasc.org/wp-content/uploads";s:5:"error";b:0;}";}

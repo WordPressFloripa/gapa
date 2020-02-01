@@ -1,0 +1,1 @@
+˙è5^<?php exit; ?>a:1:{s:7:"content";a:7:{s:10:"_edit_lock";a:1:{i:0;s:12:"1580559869:3";}s:13:"_thumbnail_id";a:1:{i:0;s:4:"1590";}s:10:"_edit_last";a:1:{i:0;s:1:"3";}s:29:"_yoast_wpseo_primary_category";a:1:{i:0;s:0:"";}s:20:"_yoast_wpseo_focuskw";a:1:{i:0;s:11:"hansen√≠ase";}s:20:"_yoast_wpseo_linkdex";a:1:{i:0;s:2:"25";}s:26:"_yoast_wpseo_content_score";a:1:{i:0;s:2:"90";}}}

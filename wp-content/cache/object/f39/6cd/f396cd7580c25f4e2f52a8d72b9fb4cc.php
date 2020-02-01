@@ -1,0 +1,1 @@
+ú5^<?php exit; ?>a:1:{s:7:"content";a:5:{s:10:"_edit_lock";a:1:{i:0;s:12:"1580560269:3";}s:13:"_thumbnail_id";a:1:{i:0;s:4:"1596";}s:10:"_edit_last";a:1:{i:0;s:1:"3";}s:29:"_yoast_wpseo_primary_category";a:1:{i:0;s:1:"1";}s:26:"_yoast_wpseo_content_score";a:1:{i:0;s:2:"30";}}}

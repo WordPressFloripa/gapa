@@ -1,0 +1,1544 @@
+# Translation of Plugins - Stackable &#8211; Gutenberg Blocks - Stable (latest release) in Portuguese (Brazil)
+# This file is distributed under the same license as the Plugins - Stackable &#8211; Gutenberg Blocks - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-09-03 18:39:02+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Plugins - Stackable &#8211; Gutenberg Blocks - Stable (latest release)\n"
+
+#: dist/admin_welcome.js:25
+msgid "Here are the other features you'll by going Premium:"
+msgstr "Aqui estão outros recursos ao aderir ao Premium:"
+
+#: dist/admin_welcome.js:25
+msgid "Email support is a Stackable Premium feature"
+msgstr "Suporte por e-mail é um recurso Premium"
+
+#: dist/admin_welcome.js:25
+msgid "Upgrade to Premium and our support team will be there to answer any questions you might have about the usage of Stackable."
+msgstr "Faça upgrade para Premium e nossa equipe de suporte irá responder a quaisquer perguntas que tenha sobre utilização do Stackable."
+
+#: dist/admin_welcome.js:25
+msgid "Need help?"
+msgstr "Precisa de ajuda?"
+
+#: dist/admin_welcome.js:25
+msgid "Knowledge Base"
+msgstr "Base de conhecimento"
+
+#: dist/admin_welcome.js:25
+msgid "Community-powered plugin support forum"
+msgstr "Fórum de suporte da comunidade do plugin"
+
+#: dist/admin_welcome.js:25
+msgid "WordPress Plugin Support Forum"
+msgstr "Fórum de suporte do plugin WordPress"
+
+#: dist/admin_welcome.js:25
+msgid "Discuss technical plugin issues and contribute to the plugin code."
+msgstr "Fale sobre problemas técnicos do plugin e contribua para o código do plugin."
+
+#: dist/admin_welcome.js:25
+msgid "GitHub"
+msgstr "GitHub"
+
+#: dist/admin_welcome.js:25
+msgid "Connect with other people using Stackable and join the discussion."
+msgstr "Conecte com outras pessoas usando o Stackable e junte-se à discussão."
+
+#: dist/admin_welcome.js:25
+msgid "Facebook Community Group"
+msgstr "Grupo de Facebook da comunidade"
+
+#: dist/admin_welcome.js:25
+msgid "Get Support"
+msgstr "Obter suporte"
+
+#: dist/admin_welcome.js:25
+msgid "Contact Email Support"
+msgstr "Contato com o suporte por e-mail"
+
+#: dist/admin_welcome.js:25
+msgid "Documentation & tutorials for building your site with Stackable."
+msgstr "Documentação e tutoriais para criar seu site com o Stackable."
+
+#: dist/admin_welcome.js:25
+msgid "Stuck with something? Email us and we’ll help you out."
+msgstr "Algum problema? Envie-nos um e-mail e ajudaremos você."
+
+#: dist/admin_welcome.js:25
+msgid "Documentation"
+msgstr "Documentação"
+
+#: src/welcome/notification-updates.php:58
+msgid "Continue Reading"
+msgstr "Continue lendo"
+
+#: src/welcome/notification-updates.php:55
+msgid "Plugin Update: %s"
+msgstr "Atualização do plugin: %s"
+
+#: src/welcome/index.php:148
+msgid "🗞 Stackable Blog"
+msgstr "🗞 Blog do Stackable"
+
+#: src/welcome/index.php:135 dist/admin_welcome.js:25
+msgid "Get Stackable Premium"
+msgstr "Obtenha Stackable Premium"
+
+#: src/welcome/index.php:130 dist/admin_welcome.js:25
+msgid "Lifetime Use"
+msgstr "Uso vitalício"
+
+#: src/welcome/index.php:129
+msgid "Customer Email Support"
+msgstr "E-mail de suporte ao cliente"
+
+#: src/welcome/index.php:128 dist/admin_welcome.js:25
+msgid "No Ads"
+msgstr "Sem anúncios"
+
+#: src/welcome/index.php:126 dist/admin_welcome.js:25
+msgid "3-Layer Separators"
+msgstr "Separadores de 3-camadas"
+
+#: src/welcome/index.php:125 dist/admin_welcome.js:25
+msgid "All Premium Effects"
+msgstr "Todos os efeitos premium"
+
+#: src/welcome/index.php:124 dist/admin_welcome.js:25
+msgid "Seamless Layout Switching"
+msgstr "Fácil mudança de layout"
+
+#: src/welcome/index.php:123 dist/admin_welcome.js:25
+msgid "50+ Premium Layouts"
+msgstr "+50 layouts premium"
+
+#: src/welcome/index.php:121
+msgid "If you are ready for even more, upgrade to Premium and get:"
+msgstr "Se estiver pronto para mais, atualize para premium e obtenha:"
+
+#: src/welcome/index.php:103
+msgid "🤔 Need Some Help?"
+msgstr "🤔 Precisa de ajuda?"
+
+#: src/welcome/index.php:100
+msgid "Create New Page"
+msgstr "Criar nova página"
+
+#: src/welcome/index.php:93
+msgid "👋 Let's Get Started"
+msgstr "👋 Vamos iniciar"
+
+#: src/welcome/index.php:94
+msgid "You now have Stackable blocks in your block editor 🤘"
+msgstr "Agora você tem blocos Stackable no seu editor de blocos 🤘"
+
+#: src/welcome/index.php:131 dist/admin_welcome.js:25
+msgid "1 Year of Updates & Support"
+msgstr "1 ano de atualizações e suporte"
+
+#: src/welcome/index.php:80
+msgid "Help & Settings"
+msgstr "Ajuda e configurações"
+
+#: dist/editor_blocks.js:1
+msgid "Background Highlight"
+msgstr "Fundo de destaque"
+
+#: dist/editor_blocks.js:1
+msgid "Highlight Color"
+msgstr "Cor de destaque"
+
+#: dist/editor_blocks.js:1
+msgid "Highlight Text"
+msgstr "Texto de destaque"
+
+#: dist/editor_blocks.js:1
+msgid "Simple"
+msgstr "Simples"
+
+#: dist/editor_blocks.js:1
+msgid "Shadow"
+msgstr "Sombra"
+
+#: dist/editor_blocks.js:1
+msgid "Separator Width"
+msgstr "Largura do separador"
+
+#: dist/editor_blocks.js:1
+msgid "Separator Color"
+msgstr "Cor do separador"
+
+#: dist/editor_blocks.js:1
+msgid "Separator Settings"
+msgstr "Configurações do separador"
+
+#: dist/editor_blocks.js:1
+msgid "Margin Bottom"
+msgstr "Margem inferior"
+
+#: dist/editor_blocks.js:1
+msgid "Margin Top"
+msgstr "Margem superior"
+
+#: dist/editor_blocks.js:1
+msgid "Flip Vertically"
+msgstr "Virar na vertical"
+
+#: dist/editor_blocks.js:1
+msgid "Flip Horizontally"
+msgstr "Virar na horizontal"
+
+#: dist/editor_blocks.js:1
+msgid "Rounded 2"
+msgstr "Arredondado 2"
+
+#: dist/editor_blocks.js:1
+msgid "Rounded 1"
+msgstr "Arredondado 1"
+
+#: dist/editor_blocks.js:1
+msgid "Curve 3"
+msgstr "Curva 3"
+
+#: dist/editor_blocks.js:1
+msgid "Curve 2"
+msgstr "Curva 2"
+
+#: dist/editor_blocks.js:1
+msgid "Curve 1"
+msgstr "Curva 1"
+
+#: dist/editor_blocks.js:1
+msgid "Wave 3"
+msgstr "Onda 3"
+
+#: dist/editor_blocks.js:1
+msgid "Wave 2"
+msgstr "Onda 2"
+
+#: dist/editor_blocks.js:1
+msgid "Wave 1"
+msgstr "Onda 1"
+
+#: dist/editor_blocks.js:1
+msgid "H6"
+msgstr "H6"
+
+#: dist/editor_blocks.js:1
+msgid "H5"
+msgstr "H5"
+
+#: dist/editor_blocks.js:1
+msgid "H4"
+msgstr "H4"
+
+#: dist/editor_blocks.js:1
+msgid "H3"
+msgstr "H3"
+
+#: dist/editor_blocks.js:1
+msgid "H2"
+msgstr "H2"
+
+#: dist/editor_blocks.js:1
+msgid "H1"
+msgstr "H1"
+
+#: dist/editor_blocks.js:1
+msgid "Advanced"
+msgstr "Avançado"
+
+#: dist/editor_blocks.js:1
+msgid "Style"
+msgstr "Estilo"
+
+#: dist/editor_blocks.js:1
+msgid "Settings"
+msgstr "Configurações"
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:358 dist/dummy-block-registration.js:363
+msgid "Separator"
+msgstr "Separador"
+
+#: dist/editor_blocks.js:1
+msgid "Layer 3 Settings"
+msgstr "Configurações da camada 3"
+
+#: dist/editor_blocks.js:1
+msgid "Layer 2 Settings"
+msgstr "Configurações da camada 2"
+
+#: dist/editor_blocks.js:1
+msgid "Padding Bottom"
+msgstr "Espaçamento inferior"
+
+#: dist/editor_blocks.js:1
+msgid "Padding Top"
+msgstr "Espaçamento superior"
+
+#: dist/editor_blocks.js:1
+msgid "Slant 2"
+msgstr "Inclinado 2"
+
+#: dist/editor_blocks.js:1
+msgid "Slant 1"
+msgstr "Inclinado 1"
+
+#: dist/editor_blocks.js:1
+msgid "Top"
+msgstr "Topo"
+
+#: dist/editor_blocks.js:1
+msgid "Bottom"
+msgstr "Base"
+
+#: dist/editor_blocks.js:1
+msgid "Layout"
+msgstr "Layout"
+
+#: dist/editor_blocks.js:1
+msgid "Say Hello to More Layouts 👋"
+msgstr "Conheça a mais layouts 👋"
+
+#: dist/editor_blocks.js:1 dist/dummy-block-registration.js:364
+msgid "SVG Divider"
+msgstr "Divisor SVG"
+
+#: dist/editor_blocks.js:1
+msgid "Say Hello to Gorgeous Separators 👋"
+msgstr "Conheça os separadores fantásticos 👋"
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:359
+msgid "A fancy separator to be placed between containers and content."
+msgstr "Aba chique para ser colocada entre contêiners e conteúdo."
+
+#: dist/editor_blocks.js:1
+msgid "Use this to pull up/down the separator to the block above it"
+msgstr "Use isto para mover o separador para cima/baixo do bloco acima dele"
+
+#: dist/editor_blocks.js:1
+msgid "Use this to pull up/down the separator to the block below it"
+msgstr "Use isto para mover o separador para cima/baixo do bloco abaixo dele"
+
+#: dist/editor_blocks.js:1
+msgid "Add a second layer to this separator and make it look even sweeter. This feature is only available on Stackable Premium"
+msgstr "Adicione uma segunda camada a este separador para torná-lo ainda mais elegante. Este recurso está disponível apenas no Stackable Premium"
+
+#: dist/editor_blocks.js:1
+msgid "Add a third layer to this separator and make it look even sweeter. This feature is only available on Stackable Premium"
+msgstr "Adicione uma terceira camada a este separador para torná-lo ainda mais elegante. Este recurso está disponível apenas no Stackable Premium"
+
+#: src/welcome/index.php:127 dist/admin_welcome.js:25 dist/editor_blocks.js:1
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: dist/editor_blocks.js:1
+msgid "Background Image or Video"
+msgstr "Imagem ou vídeo de fundo"
+
+#: dist/editor_blocks.js:1
+msgid "Gradient Direction (degrees)"
+msgstr "Direção do gradiente (em graus)"
+
+#: dist/editor_blocks.js:1
+msgid "Gradient"
+msgstr "Gradiente"
+
+#: dist/editor_blocks.js:1
+msgid "Background Color #1"
+msgstr "Cor de fundo #1"
+
+#: dist/editor_blocks.js:1
+msgid "Background Color #2"
+msgstr "Cor de fundo #2"
+
+#: dist/editor_blocks.js:1
+msgid "Say Hello to Custom CSS 👋"
+msgstr "Conheça o CSS personalizado 👋"
+
+#: dist/editor_blocks.js:1
+msgid "Single"
+msgstr "Único"
+
+#: dist/editor_blocks.js:1
+msgid "Use .mp4 format for videos"
+msgstr "Use formato .mp4 para vídeos"
+
+#: dist/editor_blocks.js:1
+msgid "Background Color Type"
+msgstr "Tipo de cor de fundo"
+
+#: dist/editor_blocks.js:1
+msgid "Further tweak this block by adding guided custom CSS rules. This feature is only available on Stackable Premium"
+msgstr "Ajuste ainda mais esse bloco adicionando regras CSS personalizadas. Esse recurso está disponível apenas no Stackable Premium"
+
+#: dist/editor_blocks.js:1
+msgid "Visit Site"
+msgstr "Visitar o site"
+
+#: dist/editor_blocks.js:1
+msgid "Other Features"
+msgstr "Outros recursos"
+
+#: dist/editor_blocks.js:1
+msgid "Premium Effects"
+msgstr "Efeitos Premium"
+
+#: dist/editor_blocks.js:1
+msgid "Premium Layouts"
+msgstr "Layouts Premium"
+
+#: dist/editor_blocks.js:1
+msgid "Try Premium Demo"
+msgstr "Experimente a demo da versão Premium"
+
+#: dist/editor_blocks.js:1
+msgid "Seamless Layouts Switching"
+msgstr "Fácil mudança de layouts"
+
+#: dist/editor_blocks.js:1
+msgid "Do more with Stackable Premium"
+msgstr "Faça mais com a versão Premium do Stackable"
+
+#: src/welcome/index.php:120
+msgid "🚀 Stackable Premium"
+msgstr "🚀 Stackable Premium"
+
+#: src/pro.php:142
+msgid "We hope you're enjoying Stackable. If you want more, you may want to check out %sStackable Premium%s. Ready to upgrade and do more? %sGo premium now%s"
+msgstr "Esperamos que esteja gostando do Stackable. Se quiser mais, consulte o %sStackable Premium%s. Pronto para atualizar e fazer mais? %sObtenha o premium agora%s"
+
+#: dist/editor_blocks.js:1
+msgid "Full Height"
+msgstr "Altura total"
+
+#: dist/editor_blocks.js:1
+msgid "Serif Font"
+msgstr "Fonte Serif"
+
+#: dist/editor_blocks.js:1
+msgid "Column #3 Highlight"
+msgstr "Destaque de coluna #3"
+
+#: dist/editor_blocks.js:1
+msgid "Column #2 Highlight"
+msgstr "Destaque de coluna #2"
+
+#: dist/editor_blocks.js:1
+msgid "Column #1 Highlight"
+msgstr "Destaque de coluna #1"
+
+#: dist/editor_blocks.js:1
+msgid "Column Highlight Colors"
+msgstr "Cores de destaque da coluna"
+
+#: dist/editor_blocks.js:1
+msgid "Right"
+msgstr "Direita"
+
+#: dist/editor_blocks.js:1
+msgid "Left"
+msgstr "Esquerda"
+
+#: dist/editor_blocks.js:1
+msgid "Center"
+msgstr "Centro"
+
+#: dist/editor_blocks.js:1
+msgid "The arrow will only appear if the image has a link."
+msgstr "A seta só vai aparece se a imagem tiver um link."
+
+#: dist/editor_blocks.js:1
+msgid "Zoom Out"
+msgstr "Zoom Out"
+
+#: dist/editor_blocks.js:1
+msgid "Zoom In"
+msgstr "Zoom In"
+
+#: dist/editor_blocks.js:1
+msgid "None"
+msgstr "Nenhum"
+
+#: dist/editor_blocks.js:1
+msgid "Image Hover Effect"
+msgstr "Efeito ao passar o mouse sobre a imagem"
+
+#: dist/editor_blocks.js:1
+msgid "Hover Overlay Opacity"
+msgstr "Opacidade de sobreposição ao passar o mouse"
+
+#: dist/admin_welcome.js:25
+msgid "Show \"Go premium\" notices"
+msgstr "Mostrar notificações \"Obter premium\""
+
+#: dist/editor_blocks.js:1
+msgid "Title & Arrow Color"
+msgstr "Cor de título e seta"
+
+#: dist/editor_blocks.js:1
+msgid "Align text top"
+msgstr "Alinhar texto superior"
+
+#: dist/editor_blocks.js:1
+msgid "Align text center"
+msgstr "Alinhar texto centro"
+
+#: dist/editor_blocks.js:1
+msgid "Align text bottom"
+msgstr "Alinhar texto inferior"
+
+#: dist/editor_blocks.js:1
+msgid "Pick an Icon"
+msgstr "Selecione um ícone"
+
+#: dist/editor_blocks.js:1
+msgid "Play Button Color"
+msgstr "Cor do botão de reprodução"
+
+#: dist/editor_blocks.js:1
+msgid "Quotation Mark Size"
+msgstr "Tamanho de aspas"
+
+#: dist/editor_blocks.js:1
+msgid "Text for this block"
+msgstr "Texto para este bloco"
+
+#: dist/editor_blocks.js:1
+msgid "Round Thin"
+msgstr "Fino redondo"
+
+#: dist/editor_blocks.js:1
+msgid "Round"
+msgstr "Redondo"
+
+#: dist/editor_blocks.js:1
+msgid "Round Thick"
+msgstr "Espesso redondo"
+
+#: dist/editor_blocks.js:1
+msgid "Square Thin"
+msgstr "Fino quadrado"
+
+#: dist/editor_blocks.js:1
+msgid "Round Fat"
+msgstr "Largo redondo"
+
+#: dist/editor_blocks.js:1
+msgid "Square Fat"
+msgstr "Largo quadrado"
+
+#: dist/editor_blocks.js:1
+msgid "Square Modern"
+msgstr "Quadrado moderno"
+
+#: dist/editor_blocks.js:1
+msgid "Square Simple"
+msgstr "Quadrado simples"
+
+#: dist/editor_blocks.js:1
+msgid "Description"
+msgstr "Descrição"
+
+#: src/welcome/index.php:151
+msgid "Subscribe"
+msgstr "Assinar"
+
+#: dist/editor_blocks.js:1
+msgid "Open in New Tab"
+msgstr "Abrir em nova aba"
+
+#: src/welcome/index.php:150
+msgid "Keep up to date by subscribing to our newsletter."
+msgstr "Mantenha-se atualizado ao assinar nossa newsletter."
+
+#: dist/editor_blocks.js:1
+msgid "Description for this block. You can use this space for describing your block."
+msgstr "Descrição para este bloco. Pode usar este campo para descrever o seu bloco."
+
+#: dist/editor_blocks.js:1
+msgid "Description for this block. Use this space for describing your block. Any text will do."
+msgstr "Descrição para este bloco. Use este campo para descrever o seu bloco. Qualquer texto serve."
+
+#: dist/editor_blocks.js:1 dist/dummy-block-registration.js:459
+msgid "YouTube Vimeo mp4"
+msgstr "YouTube Vimeo mp4"
+
+#: dist/editor_blocks.js:1
+msgid "Subtitle for this block"
+msgstr "Subtítulo para este bloco"
+
+#: dist/editor_blocks.js:1
+msgid "Show more tools & options"
+msgstr "Mostrar mais ferramentas e opções"
+
+#: dist/editor_blocks.js:1
+msgid "Hide more tools & options"
+msgstr "Esconder mais ferramentas e opções"
+
+#: dist/editor_blocks.js:1
+msgid "Title for This Block"
+msgstr "Título para este bloco"
+
+#: dist/admin_welcome.js:25
+msgid "View Block Demo"
+msgstr "Ver demo do bloco"
+
+#: dist/admin_welcome.js:25
+msgid "Enabled"
+msgstr "Ativado"
+
+#: dist/admin_welcome.js:25
+msgid "Disabled"
+msgstr "Desativado"
+
+#: dist/admin_welcome.js:25
+msgid "Disable All"
+msgstr "Desativar todos"
+
+#: dist/admin_welcome.js:25
+msgid "Enable All"
+msgstr "Ativar todos"
+
+#: dist/editor_blocks.js:1
+msgid "featured"
+msgstr "em destaque"
+
+#: dist/editor_blocks.js:1
+msgid "Bolder"
+msgstr "Mais negrito"
+
+#: dist/editor_blocks.js:1
+msgid "Bold"
+msgstr "Negrito"
+
+#: dist/editor_blocks.js:1
+msgid "Regular"
+msgstr "Regular"
+
+#: dist/editor_blocks.js:1
+msgid "Light"
+msgstr "Light"
+
+#: dist/editor_blocks.js:1
+msgid "Monospace"
+msgstr "Mono-espaçado"
+
+#: dist/editor_blocks.js:1
+msgid "Serif"
+msgstr "Serif"
+
+#: dist/editor_blocks.js:1
+msgid "Sans-Serif"
+msgstr "Sans-Serif"
+
+#: dist/editor_blocks.js:1
+msgid "Shadow / Outline"
+msgstr "Sombra / Contorno"
+
+#. Description of the plugin
+msgid "Blocks for everyone"
+msgstr "Blocos para todos"
+
+#: dist/editor_blocks.js:1
+msgid "Button text"
+msgstr "Texto do botão"
+
+#: dist/editor_blocks.js:1
+msgid "Tiny"
+msgstr "Minúsculo"
+
+#: dist/editor_blocks.js:1
+msgid "(%s: %s)"
+msgstr "(%s: %s)"
+
+#: dist/editor_blocks.js:1
+msgid "(current %s: %s)"
+msgstr "(atual %s: %s)"
+
+#: src/welcome/index.php:96
+msgid "Create a new page and click on the %s button to add a block"
+msgstr "Crie uma nova página e clique no botão %s para adicionar um bloco"
+
+#: src/welcome/index.php:99
+msgid "📖 How to Use"
+msgstr "📖 Como usar"
+
+#: dist/admin_welcome.js:25
+msgid "View %s Demo"
+msgstr "Ver %s demo"
+
+#: dist/editor_blocks.js:1
+msgid "feature"
+msgstr "recurso"
+
+#: dist/editor_blocks.js:1
+msgid "preview"
+msgstr "pré-visualizar"
+
+#: dist/editor_blocks.js:1
+msgid "Theme default"
+msgstr "Padrão do tema"
+
+#: src/welcome/index.php:109
+msgid "We have a lot of awesome blocks. But if you're overwhelmed with awesomeness, you can hide some of them."
+msgstr "Temos vários blocos legais. Mas se sentir intimidado com toda esta grandiosidade, pode esconder alguns deles."
+
+#: src/welcome/index.php:97
+msgid "Scroll down and pick a Stackable block and customize it!"
+msgstr "Deslize para baixo e selecione um bloco Stackable e personalize!"
+
+#: dist/editor_blocks.js:1
+msgid "Go Premium"
+msgstr "Obter Premium"
+
+#: src/welcome/index.php:109
+msgid "(If your post contains a disabled block, it will still continue to work. You won't just be able to add the disabled blocks.)"
+msgstr "(Se seu post contiver um bloco inativo, continuará funcionando. Apenas não poderá adicionar os blocos inativos.)"
+
+#: dist/editor_blocks.js:1
+msgid "Counter Font Weight"
+msgstr "Espessura da fonte do contador"
+
+#: dist/editor_blocks.js:1
+msgid "Counter Font"
+msgstr "Fonte do contador"
+
+#: src/welcome/news.php:103 src/pro.php:47 src/block/disabled-blocks.php:36
+msgid "Security error, please refresh the page and try again."
+msgstr "Erro de segurança. Atualizar esta página para experimentar outra vez."
+
+#: src/welcome/index.php:108
+msgid "🎛 Enable & Disable Blocks"
+msgstr "🎛 Ativar & desativar blocos"
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:31
+msgid "Display a quote in style."
+msgstr "Exibir uma citação em estilo."
+
+#: plugin.php:72
+msgid "\"Stackable\" requires PHP version 5.3.0 or higher, but PHP version %s is used on the site."
+msgstr "\"Stackable\" requer versão PHP 5.3.0 ou superior, mas a versão PHP %s é a que está sendo usada neste site."
+
+#: dist/editor_blocks.js:1
+msgid "Design"
+msgstr "Design"
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:341
+msgid "Display the different pricing tiers of your business."
+msgstr "Exibir níveis diferentes de preço de seu negócio."
+
+#: dist/editor_blocks.js:1 dist/dummy-block-registration.js:150
+msgid "Statistics"
+msgstr "Estatísticas"
+
+#: dist/editor_blocks.js:1 dist/dummy-block-registration.js:166
+msgid "Add a pause between your content."
+msgstr "Adicione uma pausa em seu conteúdo."
+
+#: dist/editor_blocks.js:1
+msgid "Plain"
+msgstr "Padrão"
+
+#: dist/editor_blocks.js:1
+msgid "Link"
+msgstr "Link"
+
+#: dist/editor_blocks.js:1
+msgid "Button #1 Settings"
+msgstr "Configurações de botão #1"
+
+#: dist/editor_blocks.js:1
+msgid "Button #2 Settings"
+msgstr "Configurações de botão #2"
+
+#: dist/editor_blocks.js:1
+msgid "Button #3 Settings"
+msgstr "Configurações de botão #3"
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:72
+msgid "Add a customizable button."
+msgstr "Adicionar um botão personalizável."
+
+#: dist/editor_blocks.js:1
+msgid "Say Hello to Side by Side Buttons 👋"
+msgstr "Conheça os botões lado a lado 👋"
+
+#: dist/editor_blocks.js:1
+msgid "Get more layouts for this block. This feature is only available on Stackable Premium."
+msgstr "Obtenha mais layouts para este bloco. Este recurso está apenas disponível em Stackable Premium."
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:238
+msgid "A large header title area. Typically used at the very top of a page."
+msgstr "Cabeçalho grande para título. Normalmente usado no topo duma página."
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:124
+msgid "A styled container that you can add other blocks inside. Use this to create unique layouts."
+msgstr "Um contêiner estilizado em que se pode adicionar outros blocos dentro. Use isto para criar layouts únicos."
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:216
+msgid "Display a product feature or a service in a large area."
+msgstr "Exibir recurso de produto ou serviço numa grande área."
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:432
+msgid "Showcase what your users say about your product or service."
+msgstr "Mostre o que seus usuários dizem sobre o seu produto ou serviço."
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:146
+msgid "Showcase your stats. Display how many customers you have or the number of downloads of your app."
+msgstr "Mostre seus dados. Mostre quantos clientes tem ou o número de vezes que sua app foi baixada."
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:180
+msgid "Display a small snippet of text. Your readers can toggle it to show more information."
+msgstr "Exibir pequeno fragmento de texto. Seus leitores podem alternar para mostrar mais informação."
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:107
+msgid "Describe a single subject in a small card. You can use this to describe your product, service or a person."
+msgstr "Descreva um único assunto num pequeno cartão. Pode usar isto para descrever seu produto, serviço ou uma pessoa."
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:414
+msgid "Display members of your team or your office. Use multiple Team Member blocks if you have a large team."
+msgstr "Exibir membros da sua equipe ou seu escritório. Usar vários blocos de 'Membros da Equipe' se tiver uma equipe grande."
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:256
+msgid "An unordered list with icons. You can use this as a list of features or benefits."
+msgstr "Uma lista não ordenada com ícones. Pode usar isto como uma lista de recursos ou benefícios."
+
+#: dist/editor_blocks.js:1
+msgid "Give your visitors more buttons to choose from. This feature is only available on Stackable Pro"
+msgstr "Dê a seus visitantes mais botões para escolha. Este recurso está disponível apenas em Stackable Pro"
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:291
+msgid "Show a notice to your readers. People can dismiss the notice to permanently hide it."
+msgstr "Mostrar notificação a seus leitores. As pessoas podem dispensar a notificação ocultando-a permanentemente."
+
+#: plugin.php:47
+msgid "%s\"Stackable\" can not be activated. %s It requires PHP version 5.3.0 or higher, but PHP version %s is used on the site. Please upgrade your PHP version first ✌️ %s Back %s"
+msgstr "%s\"Stackable\" não pode ser ativado. %s Requer PHP versão 5.3.0 ou superior, mas a versão PHP %s é a que está sendo usada neste site. Atualize a sua versão PHP primeiro ✌️ %s Voltar %s"
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:308
+msgid "Display steps or methods that your users will do in your service. For example, \"Get started in just 3 easy steps: 1, 2 and 3!\""
+msgstr "Exibir passos ou métodos que seus usuários farão no seu serviço. Por exemplo, \"Inicie em apenas 3 simples passos: 1, 2 e 3!\""
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:273
+msgid "Display an image that shows more information when hovered on. Can be used as a fancy link to other pages."
+msgstr "Exibir uma imagem que mostre mais informação à medida que se passa o mouse por cima. Pode ser usada como link sofisticado para outras páginas."
+
+#: dist/editor_blocks.js:1 dist/dummy-block-registration.js:400
+msgid "Sometimes you just need some space."
+msgstr "Por vezes apenas precisa de algum espaço."
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:49
+msgid "Your latest blog posts. Use this to showcase a few of your posts in your landing pages."
+msgstr "Seus posts de blog mais recentes. Use isto para mostrar alguns de seus posts em suas páginas."
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:12
+msgid "A title that your visitors can toggle to view more text. Use as FAQs or multiple ones for an Accordion."
+msgstr "Um título que seus visitantes podem alternar para ver mais texto. Use como perguntas frequentes ou vários deste para criar um acordeão."
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:198
+msgid "Display multiple product features or services. You can use Feature Grids one after another."
+msgstr "Mostra vários recursos de produtos ou serviços. Pode usar as grades de recursos uma após outra."
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:88
+msgid "A small section you can use to call the attention of your visitors. Great for calling attention to your products or deals."
+msgstr "Pequena seção útil para chamar atenção de seus visitantes. Ótima para chamar atenção para seus produtos ou promoções."
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:453
+msgid "Display a large thumbnail that your users can click to play a video full-screen. Great for introductory or tutorial videos."
+msgstr "Exibir miniatura grande que seus usuários podem clicar para reproduzir um vídeo em tela cheia. Ótimo para vídeos introdutórios ou tutoriais."
+
+#: dist/editor_blocks.js:1
+msgid "Ghost"
+msgstr "Fantasma"
+
+#: dist/editor_blocks.js:1
+msgid "Display Comments"
+msgstr "Exibir comentários"
+
+#: dist/editor_blocks.js:1
+msgid "Display Continue Reading Link"
+msgstr "Exibir link 'Continue lendo'"
+
+#: dist/editor_blocks.js:1 dist/dummy-block-registration.js:48
+msgid "Posts"
+msgstr "Posts"
+
+#: dist/editor_blocks.js:1
+msgid "Accent Color"
+msgstr "Cor de realce"
+
+#: dist/editor_blocks.js:1
+msgid "Customize Read More Link"
+msgstr "Personalizar link 'Leia mais'"
+
+#: dist/editor_blocks.js:1
+msgid "Landscape"
+msgstr "Paisagem"
+
+#: dist/editor_blocks.js:1
+msgid "Portrait"
+msgstr "Retrato"
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:237 dist/dummy-block-registration.js:242
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:452 dist/dummy-block-registration.js:457
+msgid "Video Popup"
+msgstr "Pop-up de vídeo"
+
+#: dist/editor_blocks.js:1
+msgid "Youtube / Vimeo only"
+msgstr "Apenas YouTube / Vimeo"
+
+#: dist/editor_blocks.js:1
+msgid "Play Button Style"
+msgstr "Estilo do botão de reprodução"
+
+#: dist/editor_blocks.js:1
+msgid "Outline Play Button"
+msgstr "Contorno do botão de reprodução"
+
+#: dist/editor_blocks.js:1
+msgid "Play Button with Circle"
+msgstr "Botão de reprodução com círculo"
+
+#: dist/editor_blocks.js:1
+msgid "Normal Play Button"
+msgstr "Botão de reprodução normal"
+
+#: dist/editor_blocks.js:1
+msgid "Display Author"
+msgstr "Exibir autor"
+
+#: dist/editor_blocks.js:1
+msgid "Tall"
+msgstr "Alto"
+
+#: dist/editor_blocks.js:1
+msgid "Short"
+msgstr "Curto"
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:290 dist/dummy-block-registration.js:295
+msgid "Notification"
+msgstr "Notificação"
+
+#: dist/editor_blocks.js:1
+msgid "Notification Type"
+msgstr "Tipo de notificação"
+
+#: dist/editor_blocks.js:1
+msgid "Dismissible"
+msgstr "Dispensável"
+
+#: dist/editor_blocks.js:1
+msgid "Information"
+msgstr "Informação"
+
+#: dist/editor_blocks.js:1
+msgid "Warning"
+msgstr "Aviso"
+
+#: dist/editor_blocks.js:1
+msgid "Error"
+msgstr "Erro"
+
+#: dist/editor_blocks.js:1
+msgid "Success"
+msgstr "Sucesso"
+
+#: dist/editor_blocks.js:1 dist/dummy-block-registration.js:185
+msgid "Show more/less"
+msgstr "Mostrar mais/menos"
+
+#: dist/editor_blocks.js:1 dist/dummy-block-registration.js:184
+msgid "Expand"
+msgstr "Expandir"
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:179
+msgid "Expand / Show More"
+msgstr "Expandir / Mostrar mais"
+
+#: dist/editor_blocks.js:1
+msgid "More text"
+msgstr "Mais texto"
+
+#: dist/editor_blocks.js:1
+msgid "Display Excerpt"
+msgstr "Exibir resumo"
+
+#: dist/editor_blocks.js:1
+msgid "Featured Image Shape"
+msgstr "Forma da imagem destacada"
+
+#: dist/editor_blocks.js:1
+msgid "Display Featured Image"
+msgstr "Exibir imagem destacada"
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:123
+msgid "Container"
+msgstr "Contêiner"
+
+#: dist/editor_blocks.js:1
+msgid "Half-screen height"
+msgstr "Altura a meia tela"
+
+#: dist/editor_blocks.js:1
+msgid "Full-screen height"
+msgstr "Altura de tela cheia"
+
+#: dist/editor_blocks.js:1
+msgid "Full-sized"
+msgstr "Tamanho completo"
+
+#: dist/editor_blocks.js:1 dist/dummy-block-registration.js:129
+msgid "Row"
+msgstr "Linha"
+
+#: dist/editor_blocks.js:1
+msgid "Less text"
+msgstr "Menos texto"
+
+#: dist/editor_blocks.js:1
+msgid "Show less"
+msgstr "Mostrar menos"
+
+#: dist/editor_blocks.js:1
+msgid "Show more"
+msgstr "Mostrar mais"
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:431 dist/dummy-block-registration.js:436
+msgid "Testimonial"
+msgstr "Testemunho"
+
+#: dist/editor_blocks.js:1
+msgid "Name"
+msgstr "Nome"
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:307 dist/dummy-block-registration.js:312
+msgid "Number Box"
+msgstr "Caixa de números"
+
+#: dist/editor_blocks.js:1 dist/dummy-block-registration.js:94
+msgid "CTA"
+msgstr "CTA"
+
+#: dist/editor_blocks.js:1
+msgid "Position"
+msgstr "Posição"
+
+#: dist/editor_blocks.js:1
+msgid "Position Color"
+msgstr "Posição de cor"
+
+#: dist/editor_blocks.js:1
+msgid "Image Shape"
+msgstr "Forma da imagem"
+
+#: dist/editor_blocks.js:1
+msgid "Circle"
+msgstr "Círculo"
+
+#: dist/editor_blocks.js:1
+msgid "Square"
+msgstr "Quadrado"
+
+#: dist/editor_blocks.js:1 dist/dummy-block-registration.js:165
+#: dist/dummy-block-registration.js:170
+msgid "Divider"
+msgstr "Divisor"
+
+#: dist/editor_blocks.js:1
+msgid "Restrict to Content Width"
+msgstr "Restringir à largura do conteúdo"
+
+#: dist/editor_blocks.js:1
+msgid "The theme's content width may have an effect here."
+msgstr "A largura do conteúdo do tema pode ter um efeito aqui."
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:11 dist/dummy-block-registration.js:16
+msgid "Accordion"
+msgstr "Acordeão"
+
+#: dist/editor_blocks.js:1 dist/dummy-block-registration.js:17
+msgid "Toggle"
+msgstr "Alternar"
+
+#: dist/editor_blocks.js:1
+msgid "Columns"
+msgstr "Colunas"
+
+#: dist/editor_blocks.js:1
+msgid "Open at the start"
+msgstr "Aberto ao início"
+
+#: dist/editor_blocks.js:1
+msgid "Image Size"
+msgstr "Tamanho de imagem"
+
+#: dist/editor_blocks.js:1
+msgid "Reverse Horizontally"
+msgstr "Reverter horizontalmente"
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:106 dist/dummy-block-registration.js:111
+msgid "Card"
+msgstr "Cartão"
+
+#: dist/editor_blocks.js:1
+msgid "Tagline Color"
+msgstr "Cor da tagline"
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:70 dist/dummy-block-registration.js:75
+msgid "Button"
+msgstr "Botão"
+
+#: dist/editor_blocks.js:1
+msgid "Image Size %"
+msgstr "Tamanho de imagem %"
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:340 dist/dummy-block-registration.js:345
+msgid "Pricing Box"
+msgstr "Caixa de preço"
+
+#: dist/editor_blocks.js:1
+msgid "Basic"
+msgstr "Básico"
+
+#: dist/editor_blocks.js:1
+msgid "Change Vertical Alignment"
+msgstr "Alterar alinhamento vertical"
+
+#: dist/editor_blocks.js:1
+msgid "Border Radius"
+msgstr "Raio de borda"
+
+#: dist/editor_blocks.js:1
+msgid "Large"
+msgstr "Grande"
+
+#: dist/editor_blocks.js:1
+msgid "Medium"
+msgstr "Médio"
+
+#: dist/editor_blocks.js:1
+msgid "Normal"
+msgstr "Normal"
+
+#: dist/editor_blocks.js:1
+msgid "Small"
+msgstr "Pequeno"
+
+#: dist/editor_blocks.js:1
+msgid "Size"
+msgstr "Tamanho"
+
+#: dist/editor_blocks.js:1
+msgid "Text Color"
+msgstr "Cor de texto"
+
+#: dist/editor_blocks.js:1
+msgid "Button Color"
+msgstr "Cor de botão"
+
+#: dist/editor_blocks.js:1
+msgid "Change Horizontal Alignment"
+msgstr "Alterar alinhamento horizontal"
+
+#: dist/editor_blocks.js:1
+msgid "Price Color"
+msgstr "Cor do preço"
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:30 dist/dummy-block-registration.js:35
+msgid "Blockquote"
+msgstr "Citação"
+
+#: dist/editor_blocks.js:1
+msgid "Quote Color"
+msgstr "Cor de citação"
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:272 dist/dummy-block-registration.js:277
+msgid "Image Box"
+msgstr "Caixa de imagem"
+
+#: dist/editor_blocks.js:1
+msgid "Title Color"
+msgstr "Cor de título"
+
+#: dist/editor_blocks.js:1
+msgid "Overlay Color"
+msgstr "Cor de sobreposição"
+
+#: dist/editor_blocks.js:1
+msgid "Width"
+msgstr "Largura"
+
+#: dist/editor_blocks.js:1
+msgid "Title"
+msgstr "Título"
+
+#: dist/editor_blocks.js:1
+msgid "Height"
+msgstr "Altura"
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:255 dist/dummy-block-registration.js:260
+msgid "Icon List"
+msgstr "Lista de ícones"
+
+#: dist/editor_blocks.js:1
+msgid "Icon Size"
+msgstr "Tamanho de ícone"
+
+#: dist/editor_blocks.js:1
+msgid "Icon Color"
+msgstr "Cor de ícone"
+
+#: dist/editor_blocks.js:1
+msgid "Icon"
+msgstr "Ícone"
+
+#: dist/editor_blocks.js:1
+msgid "Star"
+msgstr "Estrela"
+
+#: dist/editor_blocks.js:1
+msgid "Cross"
+msgstr "Cruz"
+
+#: dist/editor_blocks.js:1
+msgid "Arrow"
+msgstr "Seta"
+
+#: dist/editor_blocks.js:1
+msgid "Plus"
+msgstr "Mais"
+
+#: dist/editor_blocks.js:1
+msgid "Background Color"
+msgstr "Cor de fundo"
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:53 dist/dummy-block-registration.js:66
+msgid "Blog Posts"
+msgstr "Posts de blog"
+
+#: dist/editor_blocks.js:1
+msgid "No posts found."
+msgstr "Nenhum post encontrado."
+
+#: dist/editor_blocks.js:1
+msgid "Posts Settings"
+msgstr "Configurações de posts"
+
+#: dist/editor_blocks.js:1
+msgid "Background Settings"
+msgstr "Configurações de fundo"
+
+#: dist/editor_blocks.js:1
+msgid "Button Settings"
+msgstr "Configurações de botão"
+
+#: dist/editor_blocks.js:1
+msgid "Check"
+msgstr "Verificar"
+
+#: dist/editor_blocks.js:1
+msgid "Occupy Entire Width"
+msgstr "Ocupar largura total"
+
+#: dist/editor_blocks.js:1
+msgid "Fixed Background"
+msgstr "Fundo fixo"
+
+#: dist/editor_blocks.js:1
+msgid "List Gap"
+msgstr "Espaço da lista"
+
+#: dist/editor_blocks.js:1 dist/dummy-block-registration.js:399
+#: dist/dummy-block-registration.js:404
+msgid "Spacer"
+msgstr "Espaçador"
+
+#: dist/editor_blocks.js:1
+msgid "Color Settings"
+msgstr "Configurações de cor"
+
+#: dist/editor_blocks.js:1
+msgid "Subtitle Color"
+msgstr "Cor do subtítulo"
+
+#: dist/editor_blocks.js:1
+msgid "Text Colors"
+msgstr "Cores do texto"
+
+#: src/welcome/index.php:138 dist/admin_welcome.js:25 dist/editor_blocks.js:1
+msgid "Learn More"
+msgstr "Saiba mais"
+
+#: dist/editor_blocks.js:1
+msgid "General Settings"
+msgstr "Configurações gerais"
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:215 dist/dummy-block-registration.js:220
+msgid "Feature"
+msgstr "Recurso"
+
+#: dist/editor_blocks.js:1
+msgid "Divider Color"
+msgstr "Cor de divisor"
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:413 dist/dummy-block-registration.js:418
+msgid "Team Member"
+msgstr "Membro de equipe"
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:87 dist/dummy-block-registration.js:92
+msgid "Call to Action"
+msgstr "Chamada para ação (CTA)"
+
+#: dist/editor_blocks.js:1
+msgid "Number Background Color"
+msgstr "Cor de fundo do número"
+
+#: dist/editor_blocks.js:1 dist/dummy-block-registration.js:128
+msgid "Container Layout"
+msgstr "Layout do contêiner"
+
+#: dist/editor_blocks.js:1
+msgid "Heading Color"
+msgstr "Cor do título"
+
+#: dist/editor_blocks.js:1
+msgid "Icon Shape"
+msgstr "Forma de ícone"
+
+#: dist/editor_blocks.js:1
+msgid "Some short text that can be expanded to show more details."
+msgstr "Algum texto curto que pode ser expandido para mostrar mais detalhes."
+
+#: dist/editor_blocks.js:1
+msgid "Body Text Color"
+msgstr "Cor do corpo de texto"
+
+#: dist/editor_blocks.js:1
+msgid "Counter Text Size"
+msgstr "Tamanho de texto do contador"
+
+#: dist/editor_blocks.js:1
+msgid "Counter Color"
+msgstr "Cor do contador"
+
+#: dist/editor_blocks.js:1
+msgid "Feature List Color"
+msgstr "Cor da lista de recursos"
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:197 dist/dummy-block-registration.js:202
+msgid "Feature Grid"
+msgstr "Grade de recursos"
+
+#: dist/editor_blocks.js:1
+msgid "Pricing Title Color"
+msgstr "Cor do título do preço"
+
+#: dist/editor_blocks.js:1
+msgid "Half & Align Right"
+msgstr "Metade e alinhar à direita"
+
+#: dist/editor_blocks.js:1
+msgid "Half & Align Center"
+msgstr "Metade e alinhar ao centro"
+
+#: dist/editor_blocks.js:1
+msgid "Half & Align Left"
+msgstr "Metade e alinhar à esquerda"
+
+#: dist/editor_blocks.js:1
+msgid "Display Title"
+msgstr "Exibir título"
+
+#: dist/admin_welcome.js:25 dist/editor_blocks.js:1
+#: dist/dummy-block-registration.js:145 dist/dummy-block-registration.js:151
+msgid "Count Up"
+msgstr "Contar"
+
+#: dist/editor_blocks.js:1
+msgid "Display Category"
+msgstr "Exibir categoria"
+
+#: dist/editor_blocks.js:1
+msgid "Display Date"
+msgstr "Exibir data"
+
+#: dist/editor_blocks.js:1
+msgid "Number Color"
+msgstr "Cor do número"
+
+#: dist/editor_blocks.js:1
+msgid "Description Color"
+msgstr "Cor da descrição"
+
+#: dist/editor_blocks.js:1
+msgid "Name Color"
+msgstr "Cor do nome"
+
+#: dist/editor_blocks.js:1
+msgid "Heading & Description Color"
+msgstr "Cor do título & descrição"
+
+#: dist/editor_blocks.js:1
+msgid "Background Media Tint Strength"
+msgstr "Força da tonalidade da cor de fundo"
+
+#: dist/editor_blocks.js:1
+msgid "Only available for single column & if centered"
+msgstr "Apenas disponível para coluna única e se centralizada"
+
+#: dist/editor_blocks.js:1
+msgid "Per Month Label Color"
+msgstr "Cor da etiqueta por mês"
+
+#: src/block/blog-posts/index.php:424
+msgid "Number of comments"
+msgstr "Número de comentários"
+
+#: src/block/blog-posts/index.php:110 src/block/blog-posts/index.php:475
+msgid "%d comment"
+msgid_plural "%d comments"
+msgstr[0] "%d comentário"
+msgstr[1] "%d comentários"
+
+#: src/block/blog-posts/index.php:46 src/block/blog-posts/index.php:486
+msgid ", "
+msgstr ", "
+
+#: src/block/blog-posts/index.php:123 dist/editor_blocks.js:1
+msgid "(Untitled)"
+msgstr "(Sem título)"
+
+#: src/block/blog-posts/index.php:148 dist/editor_blocks.js:1
+msgid "Continue reading"
+msgstr "Continue lendo"
+
+#: src/welcome/notification.php:130
+msgid "⚠️ Notifications"
+msgstr "⚠️ Notificações"
+
+#: src/welcome/notification.php:77
+msgid "%s notification"
+msgid_plural "%s notifications"
+msgstr[0] "%s notificação"
+msgstr[1] "%s notificações"
+
+#: src/welcome/notification.php:136
+msgid "Don't show me this anymore"
+msgstr "Não mostrar mais isto"
+
+#: src/block/blog-posts/index.php:412
+msgid "Author information"
+msgstr "Informação de autor"
+
+#: src/block/blog-posts/index.php:376
+msgid "Different sized featured images"
+msgstr "Tamanhos diferentes de imagens destacadas"
+
+#: src/block/blog-posts/index.php:388
+msgid "Post excerpt for Stackable"
+msgstr "Resumo de post para Stackable"
+
+#: src/block/blog-posts/index.php:400
+msgid "Category list links"
+msgstr "Links da lista de categorias"
+
+#: src/welcome/notification-rate.php:41
+msgid "We've noticed that you've been using Stackable for some time now, we hope you are loving it! We would appreciate it if you can %sgive us a 5 star rating on WordPress.org%s!"
+msgstr "Você esteve usando o Stackable por algum tempo, esperamos que esteja gostando! Gostaríamos que %sdesse pontuação de 5 estrelas em WordPress.org%s!"
+
+#. Plugin Name of the plugin
+msgid "Stackable - Gutenberg Blocks"
+msgstr "Stackable - Blocos Gutenberg"
+
+#. Plugin URI of the plugin
+msgid "https://wpstackable.com"
+msgstr "https://wpstackable.com"
+
+#: src/welcome/index.php:143
+msgid "🍺 Free Theme Download"
+msgstr "🍺 Baixar tema gratuito"
+
+#: src/welcome/index.php:33 src/welcome/index.php:34 src/welcome/index.php:81
+#: src/init.php:127 dist/editor_blocks.js:1 dist/dummy-block-registration.js:18
+#: dist/dummy-block-registration.js:36 dist/dummy-block-registration.js:54
+#: dist/dummy-block-registration.js:76 dist/dummy-block-registration.js:93
+#: dist/dummy-block-registration.js:112 dist/dummy-block-registration.js:130
+#: dist/dummy-block-registration.js:152 dist/dummy-block-registration.js:171
+#: dist/dummy-block-registration.js:186 dist/dummy-block-registration.js:203
+#: dist/dummy-block-registration.js:221 dist/dummy-block-registration.js:243
+#: dist/dummy-block-registration.js:261 dist/dummy-block-registration.js:278
+#: dist/dummy-block-registration.js:296 dist/dummy-block-registration.js:313
+#: dist/dummy-block-registration.js:346 dist/dummy-block-registration.js:365
+#: dist/dummy-block-registration.js:405 dist/dummy-block-registration.js:419
+#: dist/dummy-block-registration.js:437 dist/dummy-block-registration.js:458
+msgid "Stackable"
+msgstr "Stackable"
+
+#: src/welcome/index.php:144
+msgid "Get our FREE WordPress theme that's beautiful & flexible, and made especially for Stackable blocks and the new WordPress editor. Subscribe to our newsletter to get the Stackable Theme now."
+msgstr "Obtenha nosso tema WordPress GRÁTIS que é bonito e flexível, criado especialmente para blocos Stackable e o novo editor WordPress. Assine nossa newsletter para obter agora o tema Stackable."
+
+#: src/welcome/index.php:145
+msgid "Subscribe & Download"
+msgstr "Assinar e baixar"
+
+#. Author URI of the plugin
+msgid "http://gambit.ph"
+msgstr "http://gambit.ph"
+
+#. Author of the plugin
+msgid "Gambit Technologies, Inc"
+msgstr "Gambit Technologies, Inc"
